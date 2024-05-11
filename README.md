@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Learning Full Stack Web Development
+Frontend Developer, MCA Final semester student at DSATM College. 
 
 
 ## 🌐 Socials:
