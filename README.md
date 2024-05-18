@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Srinidhi Kulkarni, a highly motivated and results-oriented Frontend Developer currently in the final semester of my MCA program at DSATM College. 
+I am Srinidhi Kulkarni, a Frontend Developer and final semester MCA student at DSATM College. With experience in Full Stack and Frontend Development, I am passionate about crafting user-friendly interfaces and enhancing user experiences.
 
 
 ## 🌐 Socials:
