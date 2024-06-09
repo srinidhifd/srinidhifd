@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Srinidhi Kulkarni, a Frontend Developer and final semester MCA student at Dayananda Sagar Academy of Technology and Management College, Bengaluru. With experience in Full Stack and Frontend Development, I am passionate about crafting user-friendly interfaces and enhancing user experiences.
+I'm Srinidhi Kulkarni, a Frontend Developer and final semester MCA student at Dayananda Sagar Academy of Technology and Management College, Bengaluru. With experience in Full Stack and Frontend Development, I am passionate about crafting user-friendly interfaces and enhancing user experiences .
 
 
 ## 🌐 Socials:
