@@ -27,7 +27,9 @@ I'm Srinidhi Kulkarni, a Frontend Developer and final semester MCA student at Da
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /></a>
 </div>
+<br>
 ---
+
 [![](https://visitcount.itsvg.in/api?id=srinidhifd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
