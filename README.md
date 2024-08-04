@@ -38,14 +38,6 @@ Tools and Platforms:
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </details> 
 
-<!--- 1st Section on Curated Articles -->
-<b>📝Curated Articles</b><br>
-
-I write regular blog posts, most of which you will find on my personal website. Below are a few trending posts.👇<br>
-  📘 [GitHub Cheat sheet | Complete Tutorials](https://recodehive.com/github-tutorials/)<br>
-  📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
-  📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
-➡️ [more blog posts...](https://recodehive.com/)
 
 <!--- 2nd Section on GitHub Analytics -->
 
