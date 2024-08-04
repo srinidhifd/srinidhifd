@@ -13,7 +13,7 @@ I'm Srinidhi Kulkarni, a Frontend Developer and final semester MCA student at Da
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhifd&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <br>
-# 🎖 Badges
+#🎖 Badges
 
 ## GSSoC'24 Badges
 
@@ -26,7 +26,7 @@ I'm Srinidhi Kulkarni, a Frontend Developer and final semester MCA student at Da
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
 <br>
----
+
 
 [![](https://visitcount.itsvg.in/api?id=srinidhifd&icon=0&color=0)](https://visitcount.itsvg.in)
 
