@@ -12,6 +12,21 @@ I'm Srinidhi Kulkarni, a Frontend Developer and final semester MCA student at Da
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srinidhifd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhifd&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<br>
+# 🎖 Badges
+
+### GSSoC'24 Badges
+
+<div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /></a>
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=srinidhifd&icon=0&color=0)](https://visitcount.itsvg.in)
 
