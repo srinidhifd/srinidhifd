@@ -12,11 +12,11 @@ I'm Srinidhi Kulkarni, a Frontend Developer and MCA Graduate from Dayananda Saga
 <tr>
 <td>
 <!--   <img width="420m" src="https://github-readme-stats.vercel.app/api?username=srinidhifd&&show_icons=true&theme=radical" alt="GitHub Stats"/> -->
-  ![](https://github-readme-stats.vercel.app/api?username=srinidhifd&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<
+  ![](https://github-readme-stats.vercel.app/api?username=srinidhifd&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 </td>
 <td>
 <!--   <img width="440em" src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhifd&theme=radical" alt="Streak Stats"/> -->
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=srinidhifd&theme=dark&hide_border=false)<
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=srinidhifd&theme=dark&hide_border=false)
 </td>
 </tr>
 </table>
