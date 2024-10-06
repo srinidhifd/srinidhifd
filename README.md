@@ -9,14 +9,17 @@ I'm Srinidhi Kulkarni, a Frontend Developer and MCA Graduate from Dayananda Saga
 
 # 📊 GitHub Stats:
 
-  <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=srinidhifd&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhifd&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </div>
+ <div style="display: flex; justify-content: space-between;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=srinidhifd&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
+    style="width: 45%;"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhifd&theme=dark&hide_border=false" 
+    style="width: 45%;"
+  />
 </div>
+
 
 <br>
 
