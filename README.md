@@ -11,18 +11,20 @@ I'm Srinidhi Kulkarni, a Frontend Developer and MCA Graduate from Dayananda Saga
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="420m" src="https://github-readme-stats.vercel.app/api?username=srinidhifd&&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<!--   <img width="420m" src="https://github-readme-stats.vercel.app/api?username=srinidhifd&&show_icons=true&theme=radical" alt="GitHub Stats"/> -->
   ![](https://github-readme-stats.vercel.app/api?username=srinidhifd&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<
 </td>
 <td>
-  <img width="440em" src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhifd&theme=radical" alt="Streak Stats"/>
+<!--   <img width="440em" src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhifd&theme=radical" alt="Streak Stats"/> -->
   ![](https://github-readme-streak-stats.herokuapp.com/?user=srinidhifd&theme=dark&hide_border=false)<
 </td>
 </tr>
 </table>
 
 <br>
-## GSSOC(24) Badges 🪶
+
+## GSSOC(24) Badges 
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
