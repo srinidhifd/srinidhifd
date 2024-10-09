@@ -32,7 +32,9 @@ I'm Srinidhi Kulkarni, a Frontend Developer and MCA Graduate from Dayananda Saga
 </div>
 <br> <br>
 
+# 🏆 Hacktoberfest Badges 
 
+[![Holopin](https://holopin.onrender.com/srinidhifd)](https://holopin.io/@srinidhifd)
 
 <br>
 
