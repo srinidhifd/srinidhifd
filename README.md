@@ -42,8 +42,8 @@ I'm **Srinidhi Kulkarni**, a Frontend Developer and MCA Graduate from Dayananda 
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinidhifd&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"  height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhifd&theme=radical&hide_border=false" alt="GitHub Streak"  height="175" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=srinidhifd&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"  height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhifd&theme=radical&hide_border=false" alt="GitHub Streak"  height="160" /> 
 </div>
 
 ---
