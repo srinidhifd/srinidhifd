@@ -1,7 +1,7 @@
 ## 💫 About Me:
 I'm **Srinidhi Kulkarni**, a Frontend Developer and MCA Graduate from Dayananda Sagar Academy of Technology and Management College, Bengaluru. With experience in Full Stack and Frontend Development, I am passionate about crafting user-friendly interfaces and enhancing user experiences.
 <p align="right">
-  <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fsrinidhifd&label=Visitors&countColor=%23263759&style=flat-square" alt="visitor badge"/>
+  <img src="https://api.visitorbadge.io/api/total?path=https%3A%2F%2Fgithub.com%2Fsrinidhifd&label=Total Visits&countColor=%23263759&style=flat-square" alt="visitor badge"/>
 </p>
 ---
 
