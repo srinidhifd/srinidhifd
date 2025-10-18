@@ -1,8 +1,5 @@
 ## 💫 About Me:
 I'm **Srinidhi Kulkarni**, a Frontend Developer and MCA Graduate from Dayananda Sagar Academy of Technology and Management College, Bengaluru. With experience in Full Stack and Frontend Development, I am passionate about crafting user-friendly interfaces and enhancing user experiences.
-<p align="right">
-  <img src="https://vbr.nathanchung.dev/badge?page_id=srinidhifd&color=262459&style=flat-square&label=Visitors" alt="visitor badge"/>
-</p>
 
 ---
 
@@ -71,6 +68,8 @@ I'm **Srinidhi Kulkarni**, a Frontend Developer and MCA Graduate from Dayananda 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=srinidhifd&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>
+  <img src="https://vbr.nathanchung.dev/badge?page_id=srinidhifd&color=262459&style=flat-square&label=Visitors" alt="visitor badge"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
