@@ -1,6 +1,8 @@
-# 💫 About Me:
+## 💫 About Me:
 I'm **Srinidhi Kulkarni**, a Frontend Developer and MCA Graduate from Dayananda Sagar Academy of Technology and Management College, Bengaluru. With experience in Full Stack and Frontend Development, I am passionate about crafting user-friendly interfaces and enhancing user experiences.
-
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=srinidhifd&icon=0&color=0" alt="Visitor Counter"/>
+</p>
 ---
 
 ## 🌐 Connect with me:
@@ -10,7 +12,7 @@ I'm **Srinidhi Kulkarni**, a Frontend Developer and MCA Graduate from Dayananda 
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 **Languages**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -40,7 +42,7 @@ I'm **Srinidhi Kulkarni**, a Frontend Developer and MCA Graduate from Dayananda 
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srinidhifd&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"  height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhifd&theme=radical&hide_border=false" alt="GitHub Streak"  height="160" /> 
@@ -48,7 +50,7 @@ I'm **Srinidhi Kulkarni**, a Frontend Developer and MCA Graduate from Dayananda 
 
 ---
 
-# 🏆 GSSOC'24 Achievements:
+## 🏆 GSSOC'24 Achievements:
 <div align="center" style='display:flex; align-items:center; gap: 10px;'>
 <a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -63,7 +65,7 @@ I'm **Srinidhi Kulkarni**, a Frontend Developer and MCA Graduate from Dayananda 
 
 ---
 
-# 🏆 Hacktoberfest Badges:
+## 🏆 Hacktoberfest Badges:
 [![An image of @srinidhifd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srinidhifd)](https://holopin.io/@srinidhifd)
 
 ---
