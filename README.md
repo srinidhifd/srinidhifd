@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm **Srinidhi Kulkarni**, a Frontend Developer and MCA Graduate from Dayananda Sagar Academy of Technology and Management College, Bengaluru. With experience in Full Stack and Frontend Development, I'm passionate about crafting user-friendly interfaces and enhancing user experiences.
+I'm **Srinidhi Kulkarni**, a Frontend Developer and MCA Graduate from Dayananda Sagar Academy of Technology and Management College, Bengaluru. With experience in Full Stack and Frontend Development, I'm passionate about crafting user-friendly interface and enhancing user experiences.
 
 ---
 
